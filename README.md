@@ -5,7 +5,7 @@
 
 🔬 Experience with:
 <ul>
-	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png" alt="GraphQL" title="GraphQL" /> </li>
+	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png" alt="GraphQL" title="GraphQL" /> | GraphQl |</li>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST" title="REST" /> </li>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /> </li>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></li>
