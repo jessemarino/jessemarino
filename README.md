@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-- 🌱 Currently I am learning:
+🌱 Currently I am learning:
 
 <ul>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />Java</li>
@@ -10,6 +10,11 @@
 
 
 🔬 Experience with:
+
+<img height="36" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /> HTML <br />
+<img height="36" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /> HTML
+
+
 <ul>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /> HTML</li>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" /> CSS</li>
