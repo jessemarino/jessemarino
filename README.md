@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
 
 
-- 🔬 Experience with:
+🔬 Experience with:
 <ul>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png" alt="GraphQL" title="GraphQL" /> </li>
 	<li><img height="36" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST" title="REST" /> </li>
