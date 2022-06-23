@@ -30,10 +30,12 @@ Take a look at my portfolio
 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 
-## Contact Info
+## Shout Out
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" jesswritincode@gmail.com />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Check out this repo where I got these badges from!
+
+- [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 
 
 
