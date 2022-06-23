@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
 
 <div>
-	<code><img height="36" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png" alt="GraphQL" title="GraphQL" /></code>
+	<img height="36" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png" alt="GraphQL" title="GraphQL" />
 	<code><img height="36" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST" title="REST" /></code>
 	<code><img height="36" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
 	<code><img height="36" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
