@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-Check out my portfolio [📰](https://jessemarino.github.io/my-portfolio/)
+Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)
 
 ## 🌱 Currently I am learning:
 
