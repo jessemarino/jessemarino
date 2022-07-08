@@ -1,6 +1,10 @@
 # Welcome! 👋
 
-Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)
+## 🕵🏻‍♂️ About me 
+
+New to the coding world and recent graduate of UCSD's Coding Bootcamp! I love problem solving, thinking out side of the box, making new ideas come to life,  and challenging myself which is why I decided to get into Web Development. Previously I was a Metrologist but have set out to begin a new career as a Full Stack Web Developer. I am beyond exited to grow in this field and be apart of this awesome community!
+
+Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)!
 
 ## 🌱 Currently I am learning:
 
