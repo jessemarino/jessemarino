@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-#3 About me 
+## About me 
 
 New to the coding world and recent graduate of UCSD's Coding Bootcamp: I love challenges, problem solving, thinking outside the box, and making new ideas come to life. Which is why I decided to get into Web Development. 
 
