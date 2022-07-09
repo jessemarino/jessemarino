@@ -1,17 +1,17 @@
 # Welcome! 👋
 
-## 🕵🏻‍♂️ About me 
+#3 About me 
 
 New to the coding world and recent graduate of UCSD's Coding Bootcamp: I love challenges, problem solving, thinking outside the box, and making new ideas come to life. Which is why I decided to get into Web Development. 
 
 Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)!
 
-## 🌱 Currently I am learning:
+## Currently I am learning:
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  />
 
-## 🔬 Experience with:
+## Experience with:
 
 ### Languages 
 
