@@ -2,7 +2,7 @@
 
 ## 🕵🏻‍♂️ About me 
 
-New to the coding world and recent graduate of UCSD's Coding Bootcamp! I love challenging myself, problem solving, thinking outside of the box, and making new ideas come to life which is why I decided to get into Web Development. Previously a Metrologist but have set out to begin a new career as a Full Stack Web Developer. I am beyond exited to grow in this field and be apart of this awesome community!
+New to the coding world and recent graduate of UCSD's Coding Bootcamp: I love challenges, problem solving, thinking outside the box, and making new ideas come to life. Which is why I decided to get into Web Development. 
 
 Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)!
 
