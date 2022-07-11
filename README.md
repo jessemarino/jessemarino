@@ -2,7 +2,7 @@
 
 ## About me 
 
-New to the coding world and recent graduate of UCSD's Coding Bootcamp: I love challenges, problem solving, thinking outside the box, and making new ideas come to life. Which is why I decided to get into Web Development. 
+New to the coding world and recent graduate of UCSD's Coding Bootcamp: I love challenges, problem solving, thinking outside the box, and making new ideas come to life. Which is why I decided to pursue Web Development. 
 
 Check out my portfolio [here](https://jessemarino.github.io/my-portfolio/)!
 
